@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540764827655",
+    "project_id": "personalchatapp-65bd9",
+    "storage_bucket": "personalchatapp-65bd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540764827655:android:b8e38e0f51abb459cfbaa2",
+        "android_client_info": {
+          "package_name": "com.example.persoanlchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUko5wiWGfJ6l_6pesVX_ssvbx8Y4Xch8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
