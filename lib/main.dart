@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:persoanlchatapp/authentication.dart';
 import 'package:persoanlchatapp/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:persoanlchatapp/home_page.dart';

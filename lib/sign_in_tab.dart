@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:persoanlchatapp/chat_data.dart';
 import 'package:persoanlchatapp/methods.dart';
