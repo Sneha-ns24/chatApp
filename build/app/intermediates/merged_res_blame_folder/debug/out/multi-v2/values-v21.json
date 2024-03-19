@@ -4,7 +4,7 @@
             "outputFile": "com.example.persoanlchatapp-mergeDebugResources-19:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/snehans/.gradle/caches/transforms-3/835c72ae9375d11ee1b40171df1eed44/transformed/core-1.9.0/res/values-v21/values-v21.xml",
+                    "source": "/Users/snehans/.gradle/caches/transforms-3/f282d0c76955a19512124e6ac38202aa/transformed/core-1.9.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

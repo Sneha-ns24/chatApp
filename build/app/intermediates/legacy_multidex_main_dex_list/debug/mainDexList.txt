@@ -438,7 +438,6 @@ kotlin/collections/unsigned/UArraysKt___UArraysKt.class
 kotlin/contracts/ExperimentalContracts.class
 kotlin/coroutines/RestrictsSuspension.class
 kotlin/coroutines/jvm/internal/DebugMetadata.class
-kotlin/experimental/ExperimentalNativeApi.class
 kotlin/experimental/ExperimentalObjCName.class
 kotlin/experimental/ExperimentalObjCRefinement.class
 kotlin/experimental/ExperimentalTypeInference.class
@@ -460,9 +459,6 @@ kotlin/io/encoding/ExperimentalEncodingApi.class
 kotlin/io/path/ExperimentalPathApi.class
 kotlin/io/path/PathsKt__PathUtilsKt.class
 kotlin/js/ExperimentalJsExport.class
-kotlin/js/ExperimentalJsFileName.class
-kotlin/js/ExperimentalJsReflectionCreateInstance.class
-kotlin/jvm/ImplicitlyActualizedByJvmDeclaration.class
 kotlin/jvm/JvmClassMappingKt.class
 kotlin/jvm/JvmDefault.class
 kotlin/jvm/JvmDefaultWithCompatibility.class
@@ -485,7 +481,6 @@ kotlin/jvm/Synchronized.class
 kotlin/jvm/Throws.class
 kotlin/jvm/Transient.class
 kotlin/jvm/Volatile.class
-kotlin/jvm/internal/CollectionToArray.class
 kotlin/jvm/internal/FunctionImpl.class
 kotlin/jvm/internal/RepeatableContainer.class
 kotlin/jvm/internal/SerializedIr.class
