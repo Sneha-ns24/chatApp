@@ -29,7 +29,7 @@ class HomePageState extends State<HomePage>
             child: Column(
               children: [
                 const Text(
-                  "Let's Chat babyyyy......!",
+                  "Let's Chat babyyyy...!",
                   style: TextStyle(
                     fontSize: 24.0,
                     fontWeight: FontWeight.bold,

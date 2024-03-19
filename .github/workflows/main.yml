@@ -8,13 +8,13 @@ on:
         - main
 jobs:   
     build:      
-        name: Build & Release  
+        name: ChatApp  
         runs-on: ubuntu-latest 
 
         steps: 
             #checkout repository
             - name: Checkout Repository
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
 
             #setup java
             - name: Set Up Java
