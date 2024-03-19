@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-0 /Users/snehans/.gradle/caches/transforms-3/178d33eaf832714482c50a4d72d68747/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-1 /Users/snehans/.gradle/caches/transforms-3/677a5b75045dce7e56c4297d25431e4f/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-2 /Users/snehans/.gradle/caches/transforms-3/796eb328d573c89823e1a196a994c704/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-3 /Users/snehans/.gradle/caches/transforms-3/9c1482907bbacc70f97ebc69ccc3c257/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-4 /Users/snehans/.gradle/caches/transforms-3/c0ae1ba7990090326ddb7e6a075db409/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-5 /Users/snehans/.gradle/caches/transforms-3/e2675d027fa306b7d6f460e13afe77be/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.4.2-6 /Users/snehans/.gradle/caches/transforms-3/ecafef187eb30c64b7367490fbddbedc/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 /Users/snehans/.pub-cache/hosted/pub.dev/cloud_firestore-4.14.0/android/src/main/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-release-8 /Users/snehans/.pub-cache/hosted/pub.dev/cloud_firestore-4.14.0/android/src/release/res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 /Users/snehans/MyApps/chatApp/chatApp/build/cloud_firestore/generated/res/pngs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 /Users/snehans/MyApps/chatApp/chatApp/build/cloud_firestore/generated/res/resValues/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 /Users/snehans/MyApps/chatApp/chatApp/build/cloud_firestore/generated/res/rs/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-12 /Users/snehans/MyApps/chatApp/chatApp/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeReleaseResources-13 /Users/snehans/MyApps/chatApp/chatApp/build/cloud_firestore/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 /Users/snehans/MyApps/chatApp/chatApp/build/cloud_firestore/intermediates/merged_res/release
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_core/intermediates/packaged_res/release

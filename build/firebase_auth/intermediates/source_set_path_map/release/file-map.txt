@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-0 /Users/snehans/.gradle/caches/transforms-3/178d33eaf832714482c50a4d72d68747/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-1 /Users/snehans/.gradle/caches/transforms-3/5ae354ef44d65d14e016d09b71a4a031/transformed/browser-1.4.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-2 /Users/snehans/.gradle/caches/transforms-3/677a5b75045dce7e56c4297d25431e4f/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-3 /Users/snehans/.gradle/caches/transforms-3/796eb328d573c89823e1a196a994c704/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-4 /Users/snehans/.gradle/caches/transforms-3/9c1482907bbacc70f97ebc69ccc3c257/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-5 /Users/snehans/.gradle/caches/transforms-3/c0ae1ba7990090326ddb7e6a075db409/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-6 /Users/snehans/.gradle/caches/transforms-3/e2675d027fa306b7d6f460e13afe77be/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-7 /Users/snehans/.gradle/caches/transforms-3/ecafef187eb30c64b7367490fbddbedc/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 /Users/snehans/.pub-cache/hosted/pub.dev/firebase_auth-4.16.0/android/src/main/res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 /Users/snehans/.pub-cache/hosted/pub.dev/firebase_auth-4.16.0/android/src/release/res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_auth/generated/res/pngs/release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_auth/generated/res/resValues/release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_auth/generated/res/rs/release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_auth/intermediates/merged_res/release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 /Users/snehans/MyApps/chatApp/chatApp/build/firebase_core/intermediates/packaged_res/release

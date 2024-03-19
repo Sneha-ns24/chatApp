@@ -4,7 +4,7 @@
             "outputFile": "com.example.persoanlchatapp-mergeDebugResources-19:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/snehans/.gradle/caches/transforms-3/835c72ae9375d11ee1b40171df1eed44/transformed/core-1.9.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/snehans/.gradle/caches/transforms-3/f282d0c76955a19512124e6ac38202aa/transformed/core-1.9.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/snehans/.gradle/caches/transforms-3/a5039aa98e4a934a9432bc8139f063f0/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
+                    "source": "/Users/snehans/.gradle/caches/transforms-3/5ae354ef44d65d14e016d09b71a4a031/transformed/browser-1.4.0/res/values-en-rCA/values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">540764827655</string>
+    <string name="google_api_key" translatable="false">AIzaSyBUko5wiWGfJ6l_6pesVX_ssvbx8Y4Xch8</string>
+    <string name="google_app_id" translatable="false">1:540764827655:android:b8e38e0f51abb459cfbaa2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBUko5wiWGfJ6l_6pesVX_ssvbx8Y4Xch8</string>
+    <string name="google_storage_bucket" translatable="false">personalchatapp-65bd9.appspot.com</string>
+    <string name="project_id" translatable="false">personalchatapp-65bd9</string>
+</resources>

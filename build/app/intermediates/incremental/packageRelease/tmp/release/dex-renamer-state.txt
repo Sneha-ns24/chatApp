@@ -1,0 +1,4 @@
+#Wed Feb 28 23:01:47 IST 2024
+base.0=/Users/snehans/MyApps/chatApp/chatApp/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
